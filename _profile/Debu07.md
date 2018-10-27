@@ -22,7 +22,7 @@ lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
+linkedin: https://www.linkedin.com/in/vedant-mehta-70522515b/
 instagram: https://www.instagram.com/_vedantmehta_/
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
