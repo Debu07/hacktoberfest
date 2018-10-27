@@ -24,7 +24,7 @@ youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: https://www.linkedin.com/in/vedant-mehta-70522515b/
 instagram: https://www.instagram.com/_vedantmehta_/
-pinterest: <Your Pinterest profile>
+pinterest: https://in.pinterest.com/mehtavedant7498/
 stackoverflow: <Your StackOverflow profile>
 
 # Optional
