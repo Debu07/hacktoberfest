@@ -14,7 +14,7 @@ email: mehtavedant7498@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
-google: <Your Google+ profile>
+google: https://plus.google.com/u/0/108457264551448573207
 gitlab: <Your GitLab profile>
 medium: <Your Medium profile>
 github: <Your GitHub profile> 
